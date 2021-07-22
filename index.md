@@ -9,36 +9,43 @@ I've been drawing regularly for two years. I mainly use graphite and ink, since 
 
 ### Portfolio
 
-I will add some of my pictures here.
+I will add some of my pictures here. 
 
+Sad Songs
 ![Sad Songs](https://user-images.githubusercontent.com/75340102/126710103-7ba6e222-b391-420b-982c-2860ebdaed6a.JPG)
 
+Love Sucks
 ![Love Sucks](https://user-images.githubusercontent.com/75340102/126710112-0ba1a418-412e-4505-abaa-37218da42cc6.jpg)
 
+Hand Me A Flower
 ![Hand Me a Flower](https://user-images.githubusercontent.com/75340102/126710147-24b1c427-e2a3-4737-8b6a-b8b6220e4628.JPG)
 
+Alone
 ![Alone](https://user-images.githubusercontent.com/75340102/126710128-fdd0e469-2d9c-4810-89a0-a552a307a8de.jpg)
 
+Found
 ![Found](https://user-images.githubusercontent.com/75340102/126710177-4a8b2c40-5339-4806-9b5d-c7ba7d587f30.jpg)
 
+Neurosis
 ![Neurosis](https://user-images.githubusercontent.com/75340102/126710203-7e5759c4-eabf-4ee7-a3df-77c87ce1db98.jpg)
 
+Things I Could Have Said
 ![Things I Could Have Said](https://user-images.githubusercontent.com/75340102/126710237-488b6424-49c1-4f62-87b1-86c265d9d3c1.JPG)
 
+Time and Promises
 ![Time and Promises](https://user-images.githubusercontent.com/75340102/126710246-86cc8780-707f-49c0-a9e5-e99f128e2be2.jpg)
-
 
 
 ### Commissions
 
-You shouldn't consider clicking these links yet, but I want to throw them here for fun. Stripe has these beautiful payment links, which makes buying things very easy.
+Pleae don't actually buy anything here. I have these links for fun. These Stripe payment links are so nice. 
 
-Before you want me to draw something, please send me an [email](mailto:michaelhe@hey.com) with the following descriptions:
-* Who are you
-* How did you find me on this big Internet
-* What would you like me to draw
-* Why do you think I'm a good candidate for that (for real)
-* Logistics - how do you want it, how long can you give me, details, etc.
+I'd love to draw things for you in the future. Please send me an [email](mailto:michaelhe@hey.com) with the following:
+* Your introduction (name, location, whatever else)
+* How did you find me
+* The subject of the piece (keywords, reference, contexts, anything helpful)
+* To make sure I'm the right candidate for you, why me?
+* More details - time, details, price, how you want it done, etc. 
 
 If you are ready to continue, here are the options:
 * [Small commission (2-4 weeks)](https://buy.stripe.com/bIY5mi1WcdZZ6ME001)
